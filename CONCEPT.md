@@ -7,7 +7,7 @@
 
 ## Project Description
 Our web app helps car enthusiasts and tuners determine the best day to perform a dyno test (dyno = dynamometer test that measures a car’s engine power/horsepower). 
-It analyzes weather and atmospheric conditions such as temperature, humidity, and air pressure to show the optimal dyno day, the worst day, and acceptable conditions. This allows users to plan tuning sessions more accurately and achieve consistent performance results.
+It analyzes weather and atmospheric conditions such as temperature, humidity and air pressure to show the optimal dyno day, the worst day, and acceptable conditions. This allows users to plan tuning sessions more accurately and achieve consistent performance results.
 
 ## Problem Statement
 [What problem are you solving? Who is this for?]
