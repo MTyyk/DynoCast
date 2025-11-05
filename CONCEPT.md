@@ -14,7 +14,7 @@ It analyzes weather and atmospheric conditions such as temperature, humidity and
 
 ## API Selection
 **API Name:** [e.g., TMDB API]  
-**API Documentation:** [URL]  
+**API Documentation:** https://open-meteo.com/  
 **Why this API?** [1-2 sentences]
 
 ### 2. GitHub Repository
