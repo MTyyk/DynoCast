@@ -6,8 +6,11 @@
 - Member 3 - Alberts Levics
 
 ## Project Description
-Our web app helps car enthusiasts and tuners determine the best day to perform a dyno test (dyno = dynamometer test that measures a car’s engine power/horsepower). 
-It analyzes weather and atmospheric conditions such as temperature, humidity and air pressure to show the optimal dyno day, the worst day, and acceptable conditions. This allows users to plan tuning sessions more accurately and achieve consistent performance results.
+Our web app helps car enthusiasts and tuners determine the best day to perform a dyno test (dynamometer test that measures a car’s engine power/horsepower). It analyzes key weather and atmospheric conditions such as temperature, air pressure and humidity—to calculate density altitude (DA) and categorize days into three groups:
+ - “More power” days – low DA (cool, high pressure, dry) → best dyno results
+- “Neutral” days – medium DA → average/normal dyno results
+ - “Less power” days – high DA (hot, low pressure, humid) → decreased power readings
+This way users can easily see which days are ideal, acceptable or unfavorable for dyno testing, helping them plan tuning sessions more accurately and achieve consistent performance results.
 
 ## Problem Statement
 [What problem are you solving? Who is this for?]
