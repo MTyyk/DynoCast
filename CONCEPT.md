@@ -15,7 +15,7 @@ It analyzes weather and atmospheric conditions such as temperature, humidity and
 ## API Selection
 **API Name:** Open-Meteo 
 **API Documentation:** https://open-meteo.com/  
-**Why this API?** [1-2 sentences]
+**Why this API?** We chose this API because it provides the specific weather and atmospheric parameters (such as temperature, humidity, air pressure, etc.) that are essential for accurately determining ideal dyno conditions.
 
 ### 2. GitHub Repository
 
