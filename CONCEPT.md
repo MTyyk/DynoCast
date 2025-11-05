@@ -13,7 +13,7 @@ It analyzes weather and atmospheric conditions such as temperature, humidity and
 [What problem are you solving? Who is this for?]
 
 ## API Selection
-**API Name:** [e.g., TMDB API]  
+**API Name:** Open-Meteo 
 **API Documentation:** https://open-meteo.com/  
 **Why this API?** [1-2 sentences]
 
